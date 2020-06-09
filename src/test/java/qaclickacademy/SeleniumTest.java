@@ -11,12 +11,14 @@ public class SeleniumTest {
 	{
 		System.out.println("BrowserAUtomation");
 		System.out.println("BrowserAUtomation1");
+		System.out.println("BrowserAUtomation2");
 	}
 	@Test
 	public void elementsUi()
 	{
 		System.out.println("elementsUi");
 		System.out.println("elementsUi1");
+		System.out.println("elementsUi2");
 	}
 	
 	
